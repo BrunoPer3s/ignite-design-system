@@ -1,22 +1,4 @@
 {
-  "name": "design-system",
-  "version": "1.0.0",
-  "description": "- [ ] Text\r - [ ] Heading\r - [ ] Box\r - [ ] Button\r - [ ] TextInput\r - [ ] TextArea\r - [ ] Checkbox\r - [ ] Avatar\r - [ ] MultiStep",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BrunoPer3s/ignite-design-system.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/BrunoPer3s/ignite-design-system/issues"
-  },
-  "homepage": "https://github.com/BrunoPer3s/ignite-design-system#readme",
   "private": true,
   "workspaces": [
     "packages/*"
