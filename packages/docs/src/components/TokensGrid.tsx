@@ -2,12 +2,12 @@ import '../styles/tokens-grid.css'
 
 interface TokensGridProps {
   tokens: Record<string, string>
-  hasRemValue?: boolean;
+  hasRemValue?: boolean
 }
 
 export function TokensGrid({ tokens, hasRemValue = false }: TokensGridProps) {
   return (
-    <table className='tokens-grid'>
+    <table className="tokens-grid">
       <thead>
         <tr>
           <th>Name</th>
