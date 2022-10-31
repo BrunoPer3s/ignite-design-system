@@ -18,7 +18,7 @@ export const Text = styled('p', {
       '4xl': { fontSize: '$4xl' },
       '5xl': { fontSize: '$5xl' },
       '6xl': { fontSize: '$6xl' },
-      '7xl': { fontSize: '$6xl' },
+      '7xl': { fontSize: '$7xl' },
       '8xl': { fontSize: '$8xl' },
       '9xl': { fontSize: '$9xl' },
     },
