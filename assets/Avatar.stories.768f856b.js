@@ -1,0 +1,2 @@
+import{A as t}from"./index.18d05b99.js";import"./index.67c4e433.js";import"./iframe.a0e02c61.js";import"./index.35075427.js";import"./jsx-runtime.5258454e.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/brunoper3s.png",alt:"Bruno Per3s"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.768f856b.js.map
